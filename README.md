@@ -1,6 +1,6 @@
 # RecognitionCamera
 ## To set up script python
-python "Name"
+python NameScript.py
 
 
 # Install library
